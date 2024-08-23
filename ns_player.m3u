@@ -76,6 +76,117 @@
     "drmScheme": "",
     "drmLicense": ""
   },
+{
+    "name": "ASIAN TV",
+    "link": "https://mtlivestream.com/asian/ytlive/index.m3u8",
+    "logo": "https://i.postimg.cc/FRJp2cwS/20240721-142038.png",
+    "origin": "",
+    "referrer": "@FREDFLIX1",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+{
+    "name": "MAASRANGA TV",
+    "link": "https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8",
+    "logo": "https://i.postimg.cc/FRJp2cwS/20240721-142038.pn",
+    "origin": "",
+    "referrer": "@FREDFLIX1",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+{
+    "name": "BANGLA TV",
+    "link": "https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8?sessId=356614
+",
+    "logo": "https://images.toffeelive.com/images/program/375/logo/240x240/mobile_logo_453885001655891270.png",
+    "origin": "",
+    "referrer": "@FREDFLIX1",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+{
+    "name": "NTV",
+    "link": "https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png",
+    "origin": "",
+    "referrer": "@FREDFLIX1",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+{
+    "name": "BOISHAKHI TV",
+    "link": "https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/chunks.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png",
+    "origin": "",
+    "referrer": "@FREDFLIX1",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+{
+    "name": "EKUSHEY TV",
+    "link": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/334/logo/240x240/mobile_logo_355998001673183662.png",
+    "origin": "",
+    "referrer": "@FREDFLIX1",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+{
+    "name": "DEEPTO TV",
+    "link": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8",
+    "logo": "https://i.postimg.cc/Cx3sbdRL/20240801-211213.png",
+    "origin": "",
+    "referrer": "@FREDFLIX1",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+{
+    "name": "MY TV",
+    "link": "http://mytvbangla.com/0.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/339/logo/240x240/mobile_logo_897303001655891103.png",
+    "origin": "",
+    "referrer": "@FREDFLIX1",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+{
+    "name": "ANANDA TV",
+    "link": "l",
+    "logo": "https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png",
+    "origin": "",
+    "referrer": "@FREDFLIX1",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+{
+    "name": "MOVIE BANGLA",
+    "link": "l",
+    "logo": "https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png",
+    "origin": "",
+    "referrer": "@FREDFLIX1",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
   {
     "name": "B4U Movies VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8",
