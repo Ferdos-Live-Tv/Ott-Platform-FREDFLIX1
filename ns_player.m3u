@@ -133,6 +133,17 @@
     "drmScheme": "",
     "drmLicense": ""
   },
+{
+    "name": "STAR GOLD HD VIP",
+    "link": "http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-HD/live.mpd",
+    "logo": "https://images.toffeelive.com/images/program/18835/logo/240x240/mobile_logo_482266001683805730.png",
+    "origin": "",
+    "referrer": "@FREDFLIX1",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
   {
     "name": "Zee Bangla Cinema VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8",
