@@ -45,6 +45,17 @@
     "drmScheme": "",
     "drmLicense": ""
   },
+{
+    "name": "SONY AATH",
+    "link": "http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd",
+    "logo": "https://i.ibb.co/PMRGhZT/20240803-102021.png",
+    "origin": "",
+    "referrer": "@FREDFLIX1",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
   {
     "name": "T Sports Live 01",
     "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
