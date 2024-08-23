@@ -396,9 +396,9 @@
     "drmLicense": ""
   },
 {
-    "name": "STAR JALSHA HD VIP",
-    "link": "http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd",
-    "logo": "https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png",
+    "name": "STAR PLUS HD VIP",
+    "link": "http://217.20.112.199/starplushd/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/18841/logo/240x240/mobile_logo_664367001683806020.png",
     "origin": "",
     "referrer": "@FREDFLIX1",
     "userAgent": "",
@@ -407,9 +407,9 @@
     "drmLicense": ""
   },
 {
-    "name": "STAR JALSHA HD VIP",
-    "link": "http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd",
-    "logo": "https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png",
+    "name": "STAR BHARAT HD VIP",
+    "link": "http://119.156.26.155:8000/play/a077/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_361773001683805911.png",
     "origin": "",
     "referrer": "@FREDFLIX1",
     "userAgent": "",
