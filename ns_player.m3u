@@ -76,6 +76,16 @@
     "drmScheme": "",
     "drmLicense": ""
   },
+{  "name": "ASIAN TV",
+    "link": "https://mtlivestream.com/asian/ytlive/index.m3u8",
+    "logo": "https://i.postimg.cc/FRJp2cwS/20240721-142038.png",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
   {
     "name": "B4U Movies VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8",
