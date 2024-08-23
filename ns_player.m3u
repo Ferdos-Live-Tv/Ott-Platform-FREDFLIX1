@@ -1,6 +1,17 @@
 
 [
 {
+    "name": "FREDFLIX",
+    "link": "https://ia800601.us.archive.org/1/items/intro-fredflix1-1080p/intro-%40fredflix1080p.mp4",
+    "logo": "https://i.postimg.cc/qMf2prsy/20240802-005125.png",
+    "origin": "",
+    "referrer": "@FREDFLIX1",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+{
    "name": "JAMUNA TV",
     "link": "https://utube.buddyxiptv.com/@JamunaTVbd.m3u8",
     "logo": "https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png",
