@@ -307,6 +307,50 @@
     "drmScheme": "",
     "drmLicense": ""
   },
+   {
+    "name": "B4U Movies VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724587437:KeyName=prod_linear:Signature=4B3yMfWAOcL5lNu9McAv-7QBmS7GXMX5XUsJlM9T0xeOGWsWQknKOLQlJuXSgFx5wiTo3Aj-SV0LgPs698N_BA",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "B4U Music VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4umusic/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724587437:KeyName=prod_linear:Signature=4B3yMfWAOcL5lNu9McAv-7QBmS7GXMX5XUsJlM9T0xeOGWsWQknKOLQlJuXSgFx5wiTo3Aj-SV0LgPs698N_BA",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SONY ENTERTAINMENT TELEVISION",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724587437:KeyName=prod_linear:Signature=4B3yMfWAOcL5lNu9McAv-7QBmS7GXMX5XUsJlM9T0xeOGWsWQknKOLQlJuXSgFx5wiTo3Aj-SV0LgPs698N_BA",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SONY MAX",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724587437:KeyName=prod_linear:Signature=4B3yMfWAOcL5lNu9McAv-7QBmS7GXMX5XUsJlM9T0xeOGWsWQknKOLQlJuXSgFx5wiTo3Aj-SV0LgPs698N_BA",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
   {
     "name": "T Sports Live 01",
     "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
@@ -314,7 +358,7 @@
     "origin": "live-cdn.tsports.com",
     "referrer": "PiratesTV",
     "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1724448007:KeyName=tsports-ed25519-01:Signature=xPJ-F8GeNPO7oXwFeFcDLKNbMCjU2HmEKI5PbIPlEjKQhAfPD_7C94cO8_-D-kuL-JSOWtdPpkKgsxdSp-zoBw",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1724488475:KeyName=tsports-ed25519-01:Signature=l--sqkGVppweYGelxO85pKNPpI8qBswR-K7nMAPFtjf1FOBWP3TzwuKhWlCAE74AvjqSrjQcnKZEE4xHQP_ADg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -325,7 +369,7 @@
     "origin": "live-cdn.tsports.com",
     "referrer": "PiratesTV",
     "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1724448007:KeyName=tsports-ed25519-01:Signature=xPJ-F8GeNPO7oXwFeFcDLKNbMCjU2HmEKI5PbIPlEjKQhAfPD_7C94cO8_-D-kuL-JSOWtdPpkKgsxdSp-zoBw",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1724488475:KeyName=tsports-ed25519-01:Signature=l--sqkGVppweYGelxO85pKNPpI8qBswR-K7nMAPFtjf1FOBWP3TzwuKhWlCAE74AvjqSrjQcnKZEE4xHQP_ADg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -336,7 +380,7 @@
     "origin": "bldcmprod-cdn.toffeelive.com",
     "referrer": "PiratesTV",
     "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724587437:KeyName=prod_linear:Signature=4B3yMfWAOcL5lNu9McAv-7QBmS7GXMX5XUsJlM9T0xeOGWsWQknKOLQlJuXSgFx5wiTo3Aj-SV0LgPs698N_BA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -347,7 +391,7 @@
     "origin": "bldcmprod-cdn.toffeelive.com",
     "referrer": "PiratesTV",
     "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724587437:KeyName=prod_linear:Signature=4B3yMfWAOcL5lNu9McAv-7QBmS7GXMX5XUsJlM9T0xeOGWsWQknKOLQlJuXSgFx5wiTo3Aj-SV0LgPs698N_BA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -358,10 +402,33 @@
     "origin": "bldcmprod-cdn.toffeelive.com",
     "referrer": "PiratesTV",
     "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724587437:KeyName=prod_linear:Signature=4B3yMfWAOcL5lNu9McAv-7QBmS7GXMX5XUsJlM9T0xeOGWsWQknKOLQlJuXSgFx5wiTo3Aj-SV0LgPs698N_BA",
     "drmScheme": "",
     "drmLicense": ""
   },
+  {
+    "name": "Zee Bangla Cinema VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724587437:KeyName=prod_linear:Signature=4B3yMfWAOcL5lNu9McAv-7QBmS7GXMX5XUsJlM9T0xeOGWsWQknKOLQlJuXSgFx5wiTo3Aj-SV0LgPs698N_BA",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Zee Bangla VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724587437:KeyName=prod_linear:Signature=4B3yMfWAOcL5lNu9McAv-7QBmS7GXMX5XUsJlM9T0xeOGWsWQknKOLQlJuXSgFx5wiTo3Aj-SV0LgPs698N_BA",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+
 {
     "name": "STAR JALSHA HD VIP",
     "link": "http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd",
@@ -451,32 +518,6 @@
     "drmLicense": ""
   },
 
-
-
-
-
-  {
-    "name": "Zee Bangla Cinema VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png",
-    "origin": "bldcmprod-cdn.toffeelive.com",
-    "referrer": "PiratesTV",
-    "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "Zee Bangla VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png",
-    "origin": "bldcmprod-cdn.toffeelive.com",
-    "referrer": "PiratesTV",
-    "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
 {
     "name": "ZEE CHINEMA HD",
     "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8",
